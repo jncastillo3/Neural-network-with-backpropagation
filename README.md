@@ -1,3 +1,3 @@
 # Neural-network-from-Scratch
 
-Prelim code for a neural network with backpropagation. 
+Prelim code for a vectorized neural network with backpropagation.
